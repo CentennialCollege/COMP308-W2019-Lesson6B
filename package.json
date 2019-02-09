@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson4b",
+  "name": "comp308-w2019-lesson5b",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "npm": "^6.0.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.1",
     "bootstrap": "^4.2.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
@@ -36,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson4B.git"
+    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson5B.git"
   },
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B/issues"
+    "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson5B/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B#readme"
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2019-Lesson5B#readme"
 }
