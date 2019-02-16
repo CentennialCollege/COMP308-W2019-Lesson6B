@@ -20,3 +20,23 @@ module.exports.displayServicesPage = (req, res, next) => {
 module.exports.displayContactPage = (req, res, next) => {
     res.render('index', { title: 'Contact' });
   }
+
+  module.exports.displayLoginPage = (req, res, next) => {
+    // TODO
+  }
+
+  module.exports.processLoginPage = (req, res, next) => {
+    // TODO
+  }
+
+  module.exports.displayRegisterPage = (req, res, next) => {
+    // TODO
+  }
+
+  module.exports.processRegisterPage = (req, res, next) => {
+    // TODO
+  }
+
+  module.exports.performLogout = (req, res, next) => {
+    // TODO
+  }
