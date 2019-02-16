@@ -77,8 +77,6 @@ module.exports.processLoginPage = (req, res, next) => {
   })(req, res, next);
 }
 
-
-
 module.exports.displayRegisterPage = (req, res, next) => {
   if (!req.user) {
     res.render("auth/register", {
